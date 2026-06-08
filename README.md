@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=200&section=header&text=Bharanidharan%20M&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20%2F%20DL%20Engineer%20%7C%20Published%20Researcher&descAlignY=56&descAlign=50" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=200&section=header&text=Bharanidharan%20M&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20%2F%20DL%20Engineer%20%7C%20Published%20Researcher&descAlignY=56&descAlign=50](https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=200&section=header&text=Bharanidharan%20M&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20%2F%20DL%20Engineer%20%7C%20Published%20Researcher&descAlignY=56&descAlign=50)" width="100%"/>
 
 <!-- Animated Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Deep+Learning+%26+ML+Engineer+%F0%9F%A7%A0;Published+AI+Researcher+%F0%9F%93%84;Problem+Solver+on+LeetCode+%F0%9F%92%AA;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
@@ -46,7 +46,7 @@ Software Engineer / AI Engineer
 
 🍳 Fun Fact:
 I trained a CNN before I learned how to cook.
-```
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -116,7 +116,7 @@ I trained a CNN before I learned how to cook.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bharanidharan22&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bharanidharan22&theme=tokyonight&hide_border=true)]([https://git.io/streak-stats](https://git.io/streak-stats))
 
 </div>
 
@@ -125,7 +125,7 @@ I trained a CNN before I learned how to cook.
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/bharanidharan22/bharanidharan22/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/bharanidharan22/bharanidharan22/raw/output/github-contribution-grid-snake-dark.svg)
 
 > **To enable the snake animation:** Go to your repo **Settings → Actions → General → Allow all actions**, then create `.github/workflows/snake.yml` with the generate-snake-graph workflow.
 
@@ -174,7 +174,7 @@ I trained a CNN before I learned how to cook.
 <div align="center">
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=120&section=footer&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=120&section=footer&animation=fadeIn)" width="100%"/>
 
 *"Build things that matter. Ship code that lasts."*
 
