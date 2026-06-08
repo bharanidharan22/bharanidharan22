@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Deep+Learning+%26+ML+Engineer+%F0%9F%A7%A0;Published+AI+Researcher+%F0%9F%93%84;Problem+Solver+on+LeetCode+%F0%9F%92%AA;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharanidharan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharanidharan702)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Bharanidharan2/)
 [![Gmail](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharanidharanmurugesan@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-bharanidharan22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharanidharan22)
