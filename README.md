@@ -23,28 +23,29 @@
 
 ## 🙋 About Me
 
-```javascript
-const bharanidharan = {
-  education: "B.E. Computer Science & Engineering (2026)",
-  college: "Sri Eshwar College of Engineering",
-  cgpa: "7.73",
-  role: "MERN Stack Intern @ Better Tomorrow",
-  research: "Published Researcher (ICWCIE-2026 | Springer LNEE)",
-  interests: [
-    "Full-Stack Development",
-    "Machine Learning",
-    "Deep Learning",
-    "MLOps",
-    "Open Source"
-  ],
-  currentlyLearning: [
-    "Advanced MERN Stack",
-    "AWS Cloud",
-    "System Design"
-  ],
-  goal: "Software Engineer / AI Engineer",
-  funFact: "Trained a CNN before learning to cook 🍳"
-};
+🎓 B.E. Computer Science & Engineering (2026) — Sri Eshwar College of Engineering
+
+💼 MERN Stack Intern @ Better Tomorrow
+
+📄 Published Researcher (ICWCIE-2026, Springer LNEE)
+
+🧠 Interested in:
+- Full-Stack Development
+- Machine Learning
+- Deep Learning
+- MLOps
+- Open Source
+
+🚀 Currently Learning:
+- Advanced MERN Stack
+- AWS Cloud
+- System Design
+
+🎯 Goal:
+Software Engineer / AI Engineer
+
+🍳 Fun Fact:
+I trained a CNN before I learned how to cook.
 ```
 ## 🛠️ Tech Stack
 
