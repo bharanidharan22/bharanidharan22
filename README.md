@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · ML/DL Enthusiast · Published Researcher
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bharanidharan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharanidharan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bharanidharan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharanidharan702)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Bharanidharan2-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bharanidharan2/)
 [![Email](https://img.shields.io/badge/Email-bharanidharanmurugesan@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:bharanidharanmurugesan@outlook.com)
 
