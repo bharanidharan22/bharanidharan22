@@ -25,17 +25,27 @@
 
 ```javascript
 const bharanidharan = {
-  education : "B.E. CSE @ Sri Eshwar College of Engineering (2026) | CGPA: 7.73",
-  role      : "MERN Stack Intern @ Better Tomorrow",
-  research  : "Published @ ICWCIE-2026 + Springer LNEE (SIFN — Pet Disease AI)",
-  interests : ["Full-Stack Web Dev", "Deep Learning", "MLOps", "Open Source"],
-  currently : "Seeking SWE roles in full-stack / ML/AI domains",
-  funFact   : "I trained a CNN before I learned how to cook 🍳"
+  education: "B.E. Computer Science & Engineering (2026)",
+  college: "Sri Eshwar College of Engineering",
+  cgpa: "7.73",
+  role: "MERN Stack Intern @ Better Tomorrow",
+  research: "Published Researcher (ICWCIE-2026 | Springer LNEE)",
+  interests: [
+    "Full-Stack Development",
+    "Machine Learning",
+    "Deep Learning",
+    "MLOps",
+    "Open Source"
+  ],
+  currentlyLearning: [
+    "Advanced MERN Stack",
+    "AWS Cloud",
+    "System Design"
+  ],
+  goal: "Software Engineer / AI Engineer",
+  funFact: "Trained a CNN before learning to cook 🍳"
 };
 ```
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
